@@ -22,7 +22,7 @@ The project focuses on creating linked lists and binary search trees and buildin
 - Spacing between trees in the list could not be perfectly formatted but produced near-desired results.
 
 ## Setup
-1. Download the project from [GitHub Repository](https://github.com/bedirhancan/data-structures-bst).
+1. Download the project from [GitHub Repository](https://github.com/bedirhancan/data-structure-bst).
 2. Open the project in a C++ IDE.
 3. Place the `agaclar.txt` file in the project folder.
 4. Compile and run the program to perform operations.
